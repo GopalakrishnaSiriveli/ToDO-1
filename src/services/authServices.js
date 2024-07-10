@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const SERVER_URL = 'https://todo-server-q1gq.onrender.com/api';
+const SERVER_URL = 'https://todo-server-2-tjz4.onrender.com/api';
 
 
 const registerUser = (data)=>{
